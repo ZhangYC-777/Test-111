@@ -1,26 +1,27 @@
-# Unity-generated directories
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
-/[Mm]emory[Cc]aptures/
-/[Rr]ecordings/
+# Unity-generated directories in the Test02 project
+/Test02/[Ll]ibrary/
+/Test02/[Tt]emp/
+/Test02/[Oo]bj/
+/Test02/[Ll]ogs/
+/Test02/[Uu]ser[Ss]ettings/
+/Test02/[Mm]emory[Cc]aptures/
+/Test02/[Rr]ecordings/
 
 # Local builds and build caches
-/[Bb]uild/
-/[Bb]uilds/
-/.gradle/
+/Test02/[Bb]uild/
+/Test02/[Bb]uilds/
+/Test02/.gradle/
 *.apk
 *.aab
 *.unitypackage
 
 # Generated IDE files
-/.vs/
-/.idea/
-/*.csproj
-/*.sln
-/*.slnx
+/Test02/.vs/
+/Test02/.idea/
+/Test02/.vscode/
+/Test02/*.csproj
+/Test02/*.sln
+/Test02/*.slnx
 *.csproj.user
 *.suo
 
