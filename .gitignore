@@ -1,0 +1,29 @@
+# Unity-generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emory[Cc]aptures/
+/[Rr]ecordings/
+
+# Local builds and build caches
+/[Bb]uild/
+/[Bb]uilds/
+/.gradle/
+*.apk
+*.aab
+*.unitypackage
+
+# Generated IDE files
+/.vs/
+/.idea/
+/*.csproj
+/*.sln
+/*.slnx
+*.csproj.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
